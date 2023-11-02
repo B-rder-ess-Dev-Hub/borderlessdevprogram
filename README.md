@@ -1,4 +1,4 @@
-# ABOUT B<>RDERLESS
+# ABOUT B<>RDER/ESS
 
 Borderless is the tech Not-for-Profit arm of Crypto Smart aimed at raising at least 100 African tech developers annually that can build Web3 products that benefit Africa.
 
