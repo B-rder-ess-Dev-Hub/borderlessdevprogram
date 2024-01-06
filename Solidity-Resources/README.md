@@ -25,9 +25,9 @@ This is a collection of resources related to Solidity and Ethereum.
 - [4byte directory — database with known function selectors](https://www.4byte.directory/)
 - [Foundry](https://book.getfoundry.sh/)
 - [Hardhat](https://hardhat.org/hardhat-runner/docs/getting-started#overview)
-- [EthersJs](https://docs.ethers.org/v6/)
-- [EthClient](https://pkg.go.dev/github.com/ethereum/go-ethereum/ethclient)
-- [Ethers-rs](https://www.gakonst.com/ethers-rs/)
+- [EthersJs (Javascript)](https://docs.ethers.org/v6/)
+- [EthClient (Go)](https://pkg.go.dev/github.com/ethereum/go-ethereum/ethclient)
+- [Ethers-rs (Rust)](https://www.gakonst.com/ethers-rs/)
 - [Slither - Static analysis from Trail of Bits.](https://github.com/crytic/slither)
 - [List of several Ethereum/smart contract tools](https://mattaereal.notion.site/matta-s-Ethereum-security-road-map-cf7d7f2e48ea4aa0a8f4a2eff86342a7#856e16b6c8414f46ae2ec8b59e6dc8ce)
 
