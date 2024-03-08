@@ -1,6 +1,6 @@
 # ABOUT B<>RDER/ESS
 
-Borderless is the tech Not-for-Profit arm of Crypto Smart aimed at raising at least 100 African tech developers annually that can build Web3 products that benefit Africa.
+B<>rder/ess is the Tech Not-For-Profit arm of Crypto Smart and Comsotech, aimed at raising 100 web3 developers and web2 tech-skilled young people from the University communities annually for free.
 
 Here are our activities for the past 2 years.
 https://gov.gitcoin.co/t/b-rderless-developers-program-a-2-year-progress-report-2022-2024/17962
