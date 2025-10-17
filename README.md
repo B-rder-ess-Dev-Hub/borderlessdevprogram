@@ -1,9 +1,21 @@
 # ABOUT B<>RDER/ESS
+B<>rder/ess is a Public Good that raises the next generation of web3 developers, contributors, creatives and builders from today's universities.
 
-B<>rder/ess is the Tech Not-For-Profit arm of Crypto Smart and Comsotech, aimed at raising 100 web3 developers and web2 tech-skilled young people from the University communities annually for free.
+We raise the next generation of:
+Builders and Founders
+Developers
+Web3 Creatives and Story Tellers
+Web3 Contributors to Public Goods
 
-Here are our activities for the past 2 years.
-https://gov.gitcoin.co/t/b-rderless-developers-program-a-2-year-progress-report-2022-2024/17962
+We do this through our (Proof of Work) PoWs;
+Building physical web3 hubs on Campuses
+Organising quarterly chain-focused Cipher Sessions
+Organising quarterly general developer Cipher Sessions
+Hosting web3 events and Funding Programs
+Providing Crypto Education and Finance training in our communities
+Establishing Web3 Campus Tech Clubs in Universities
+Launching DevTools and on-chain products.
+
 
 ## MILESTONES REACHED
 
